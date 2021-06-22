@@ -1,1 +1,13 @@
+UPDATE 22.06.21 16:49:23:
+awmproxy: 7680
+hidemyname: 0
 
+telegram: 128
+spys_one: 128
+proxiesfine: 0
+proxyz_ru_bot: 0
+
+http: 10560
+http_all: 0
+
+[]
