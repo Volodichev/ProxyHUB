@@ -11,7 +11,7 @@ curl -sSf "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt
 ```
 #
 **List of projects for parsing proxies:**
-- [proxy4parsing](http://t.me/proxy4parsing)
+- [t.me/proxy4parsing](http://t.me/proxy4parsing)
 - [awm](http://awmproxy.net)
 - [hideme](http://hidemy.name/en)
 - [spys](http://spys.me/proxy.txt)
