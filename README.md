@@ -16,7 +16,7 @@ curl -sSf "https://raw.githubusercontent.com/Volodichev/proxy-list/main/http.txt
 - [hideme](http://hidemy.name/en)
 - [spys](http://spys.me/proxy.txt)
 - [proxiesfine](http://t.me/proxiesfine)
-- [proxyz_ru_bot](http://t.me/proxyz_ru_bot)
+- [proxyz](http://t.me/proxyz_ru_bot)
 
 
 
