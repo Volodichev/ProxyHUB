@@ -1,13 +1,13 @@
-UPDATE 28.06.21 18:30:05:
-a: 0
+UPDATE 28.06.21 18:34:53:
+a: 6063
 h: 0
 
-tg: 5810
+tg: 8763
 s: 128
-pf: 0
-pzrbot: 5682
+pf: 100
+pzrbot: 8535
 
-http: 9418
+http: 12476
 http_old: 0
 
 
