@@ -1,3 +1,16 @@
+UPDATE 01.09.21 23:40:01:
+a: 6656
+h: 1236
+
+tg: 400
+s: 400
+pf: 0
+pzrbot: 0
+
+http: 7477
+http_old: 0
+
+
 UPDATE 01.09.21 23:20:01:
 a: 6656
 h: 0
@@ -9,4 +22,3 @@ pzrbot: 0
 
 http: 6811
 http_old: 0
-
