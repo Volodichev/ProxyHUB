@@ -1,4 +1,4 @@
-UPDATE 24.09.21 04:00:01:
+UPDATE 24.09.21 04:20:01:
 a: 0
 h: 0
 
@@ -10,3 +10,15 @@ pzrbot: 0
 http: 218
 http_old: 0
 
+
+UPDATE 24.09.21 04:00:01:
+a: 0
+h: 0
+
+tg: 218
+s: 128
+pf: 90
+pzrbot: 0
+
+http: 218
+http_old: 0
