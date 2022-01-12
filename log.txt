@@ -1,4 +1,4 @@
-UPDATE 12.01.22 05:20:01:
+UPDATE 12.01.22 05:40:01:
 a: 0
 h: 0
 
@@ -10,3 +10,15 @@ pzrbot: 0
 http: 400
 http_old: 0
 
+
+UPDATE 12.01.22 05:20:01:
+a: 0
+h: 0
+
+tg: 400
+s: 400
+pf: 0
+pzrbot: 0
+
+http: 400
+http_old: 0
