@@ -1,3 +1,16 @@
+UPDATE 10.04.22 09:40:02:
+a: 0
+h: 0
+
+tg: 87
+s: 0
+pf: 87
+pzrbot: 0
+
+http: 4984
+http_old: 0
+
+
 UPDATE 10.04.22 09:20:02:
 a: 0
 h: 0
