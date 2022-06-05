@@ -1,17 +1,17 @@
 
-<p>Varnishcacheserver</p>
-<title>503firstbytetimeout</title>
-<head>
 <hr>
+<head>
+</body>
+</html>
+<html>
+<?xmlversion="1.0"encoding="utf-8"?>
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<p>Details:cache-fra19128-FRA16541448201910196761</p>
+<p>Varnishcacheserver</p>
 <h3>Error54113</h3>
+<!DOCTYPEhtmlPUBLIC"-//W3C//DTDXHTML1.0Strict//EN"
+<title>503firstbytetimeout</title>
 </head>
 <p>firstbytetimeout</p>
-</html>
-<?xmlversion="1.0"encoding="utf-8"?>
-<!DOCTYPEhtmlPUBLIC"-//W3C//DTDXHTML1.0Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <body>
-<html>
-</body>
 <h1>Error503firstbytetimeout</h1>
-<p>Details:cache-fra19128-FRA16541448201910196761</p>
